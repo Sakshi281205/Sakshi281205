@@ -11,7 +11,7 @@ Whether it's hackathons, open-source contributions, or internships, I'm always e
 
 - 🔭 Currently building projects in **ML**, **DL**, and **Web Development**
 - 🛠️ Proficient in: Python, TensorFlow, Scikit-learn, React, HTML/CSS/JS
-- 💡 Interests: Generative AI, AI for Social Good, LLMs, Explainable AI
+- 💡 Interests: Generative AI, ML, LLMs, Web Development, DL, DS, Full Stack
 - 🧠 Always learning: Advanced AI algorithms, Backend Dev, Deployment with Docker and Cloud
 - 📄 ([My Resume](https://drive.google.com/drive/folders/1CZaX3vgnh_zuyODZekzgaBD15c7pmRE6)) 
 
