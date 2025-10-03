@@ -21,7 +21,7 @@ Whether it's hackathons, open-source contributions, or internships, I'm always e
 
 - 📧 Email: [sakshijoshi2812@gmail.com]
 - 📱 Phone: +91 9908348981
-- 💼 LinkedIn: [linkedin.com/in/sakshijoshi2812](https://linkedin.com/in/sakshijoshi2812) 
+- 💼 LinkedIn: [linkedin.com/in/sakshijoshi281205](https://linkedin.com/in/sakshijoshi281205) 
 - 🐙 GitHub: [github.com/Sakshi281205](https://github.com/Sakshi281205)
 
 ---
