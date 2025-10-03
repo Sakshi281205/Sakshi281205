@@ -3,7 +3,7 @@
 🎓 I’m a third-year undergraduate student at **Chaitanya Bharathi Institute of Technology**, 
 pursuing **Artificial Intelligence and Machine Learning (AIML)**.
 
-🌟 With a **CGPA of 9.84**, I'm passionate about AI, ML, and building innovative solutions using data, models, and code. 
+🌟 With a **CGPA of 9.82**, I'm passionate about AI, ML, and building innovative solutions using data, models, and code. 
 Whether it's hackathons, open-source contributions, or internships, I'm always eager to explore new challenges and learn by doing.
 ---
 
